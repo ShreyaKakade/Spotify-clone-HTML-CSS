@@ -5,7 +5,7 @@ The project replicates the main interface of Spotify’s website — featuring a
 Features
 1. Responsive UI — adapts to different screen sizes
 2. Spotify-like Layout — includes:
-      Side navigation
-      Playlist cards
+      Side navigation ,
+      Playlist cards ,
       Currently playing section with media controls
 
