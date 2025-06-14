@@ -1,4 +1,4 @@
-# spotify-clone-HTML-CSS
+# Spotify-clone-HTML-CSS
 This is a Spotify clone implemented using HTML and CSS.
 The project replicates the main interface of Spotify’s website — featuring a sidebar, a main content section with playlists, and a bottom media player — all styled with pure CSS.
 
